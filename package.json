@@ -1,0 +1,19 @@
+{
+  "name": "aroma-admin",
+  "version": "1.0.0",
+  "description": "Cadastro oleos essenciais",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.16",
+    "sequelize": "^6.20.0"
+  }
+}
